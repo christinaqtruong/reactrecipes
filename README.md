@@ -1,7 +1,7 @@
 
 # React Recipes
 
-A website designed from scratch using react and react-bootstrap to showcase the first projects I created as a developer back in 2019 as part of the University of Texas at Austin's Coding Boot Camp summer cohort. The deployed version can be found at [here]([https://christinaqtruong.github.io/reactrecipes](https://christinaqtruong.github.io/reactrecipes)).
+A website created using react and react-bootstrap to explore using react in combination with an API and react state. The deployed version can be found [here]([https://christinaqtruong.github.io/reactrecipes](https://christinaqtruong.github.io/reactrecipes)).
 
 ## Getting Started
 
