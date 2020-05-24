@@ -15,15 +15,17 @@ This application requires that you have Node and yarn/npm installed on your mach
 
 You can create a react-app using [Create a New React App](https://reactjs.org/docs/create-a-new-react-app.html)
 
-Once you set up the application, install the required dependencies by running:
+Once you set up the application, you can install the [yarn]([https://yarnpkg.com/](https://yarnpkg.com/)) package manager and the following command to install the required dependencies
 ```
 npm install -g yarn
  
 yarn install
 ```
-I use the package manager [yarn]([https://yarnpkg.com/](https://yarnpkg.com/)), but you can also use [npm](https://www.npmjs.com/) as an alternative. 
+or you can also use run the following [npm](https://www.npmjs.com/). 
 
-
+```
+npm install
+```
 To push the application to github, use:
 
     git init
