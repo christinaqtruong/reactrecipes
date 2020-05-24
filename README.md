@@ -41,7 +41,7 @@ npm install -g yarn
 yarn install
 ```
 
-or you can also use run the following [npm](https://www.npmjs.com/).
+or you can also use run the following [npm](https://www.npmjs.com/) command:
 
 ```
 npm install
