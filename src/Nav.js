@@ -3,7 +3,7 @@ import './App.css';
 
 function Nav(){
     return (
-        <h1>Hi</h1>
+        <h3>React Recipes</h3>
     );
 }
 
