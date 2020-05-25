@@ -64,13 +64,12 @@ Then click on 'API Developer Portal'. Under 'Documentation', select 'Recipe Sear
 
 ## Deployment
 
-  
 
 To run the application on your local server, use:
 ````
 yarn start
 ````
-To deploy the application to github pages, use:
+To deploy the application to github pages, you can follow the instructions [here](https://blog.usejournal.com/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e) or use:
 ````
 yarn add gh-pages --save-dev
 ````
