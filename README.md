@@ -5,7 +5,7 @@
 
   
 
-A website created using react and react-bootstrap to explore using react in combination with an API and react state. The deployed version can be found [here]([https://christinaqtruong.github.io/reactrecipes](https://christinaqtruong.github.io/reactrecipes)).
+A website created using react, react-bootstrap, react state and a recipe search API called [Edamam](http://www.edamam.com). The deployed version can be found [here]([https://christinaqtruong.github.io/reactrecipes](https://christinaqtruong.github.io/reactrecipes)).
 
   
 
@@ -27,7 +27,6 @@ This application requires that you have Node and yarn/npm installed on your mach
 
 ### Setting Up
 
-  
 
 You can create a react-app using [Create a New React App](https://reactjs.org/docs/create-a-new-react-app.html)
 
@@ -56,7 +55,12 @@ git remote add origin repository_URL
   
 The *repository_URL* is the link you would use to clone down your github repository.
 
-  
+## Setting up the API
+
+Sign up for the free (developer) [Edamam Recipe Search API](https://developer.edamam.com/edamam-recipe-api) and click on the 'Applications' tab (next to Dashboard) and click on the 'View' button next to **Recipe Search API** to view the API key. 
+
+Then click on 'API Developer Portal'. Under 'Documentation', select 'Recipe Search API'. Under 'Example Get Request', there is an example link that can be used as the basis for the recipe search get request. 
+
 
 ## Deployment
 
