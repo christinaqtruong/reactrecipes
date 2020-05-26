@@ -23,7 +23,7 @@ const Recipe = ({ title, calories, image, ingredients }) => {
             ))}
           </ul>
         </Card.Text>
-        <Button variant="primary">Recipe</Button>
+        {/* <Button variant="primary">Recipe</Button> */}
       </Card.Body>
     </Card>
   );

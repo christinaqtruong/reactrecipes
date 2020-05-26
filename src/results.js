@@ -15,7 +15,7 @@ const Results = ({title, calories, image, ingredients}) => {
                     {ingredients.map(ingredient=> <li>{ingredient.text}</li>)}
                 </ul>
             </Card.Text>
-            <Button variant="primary">Recipe</Button>
+            {/* <Button variant="primary">Recipe</Button> */}
             </Card.Body>
         </Card>
     );
